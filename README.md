@@ -1,10 +1,5 @@
 # cu-e6111-proj1
 
-## Team
-Rong Bai, rb3512
-
-Jiawen Li, jl6121
-
 ## File list
 ```
 .
